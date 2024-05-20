@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "name": "Android CI",
+      "project": "external"
+    }
+  ]
+}
